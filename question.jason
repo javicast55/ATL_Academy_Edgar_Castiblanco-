@@ -5,38 +5,25 @@
   "explanation": "Urano es el planeta más alejado del sol dentro del sistema solar, por lo tanto, es el que menos calor recibe."
 }
 {  "category": "Universo",
-  "question": "¿Cuál es el nombre del planeta más frio del sistema solar?",
-  "options": ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano"],
-  "answer": 6,
-  "explanation": "Urano es el planeta más alejado del sol dentro del sistema solar, por lo tanto, es el que menos calor recibe."
+  "question": "¿Cuál es el nombre de nuestra galaxia?",
+  "options": ["Andromeda", "Pegassus", "Afrodita", "Lactosa", "Via Lactea"],
+  "answer": 4,
+  "explanation": "El sistema solar pertenece a la vía láctea."
 }
-{  "category": "Universo",
-  "question": "¿Cuál es el nombre del planeta más frio del sistema solar?",
-  "options": ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano"],
-  "answer": 6,
-  "explanation": "Urano es el planeta más alejado del sol dentro del sistema solar, por lo tanto, es el que menos calor recibe."
+{  "category": "Ajedrez",
+  "question": "¿Cuál es el nombre de la maquina que fue inventada para jugar contra Gary Casparov?",
+  "options": ["Alpha Zero", "Stockfish", "Deep Blue", "IBM I", "IBM I"],
+  "answer": 2,
+  "explanation": "Deep Blue fue una supercomputadora desarrollada por el fabricante estadounidense IBM para jugar al ajedrez. Fue la primera que venció a un campeón del mundo vigente, Gary Kaspárov."
+{  "category": "Ajedrez",
+  "question": "¿Cuántos peones se utilizan en una partida de ajedrez?",
+  "options": ["7", "9", "6", "8"],
+  "answer": 3,
+  "explanation": "Se usan 8 uno por cada cuadro en la segunda fila."
 }
-{  "category": "Universo",
-  "question": "¿Cuál es el nombre del planeta más frio del sistema solar?",
-  "options": ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano"],
-  "answer": 6,
-  "explanation": "Urano es el planeta más alejado del sol dentro del sistema solar, por lo tanto, es el que menos calor recibe."
-}
-{  "category": "Universo",
-  "question": "¿Cuál es el nombre del planeta más frio del sistema solar?",
-  "options": ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano"],
-  "answer": 6,
-  "explanation": "Urano es el planeta más alejado del sol dentro del sistema solar, por lo tanto, es el que menos calor recibe."
-}
-{  "category": "Universo",
-  "question": "¿Cuál es el nombre del planeta más frio del sistema solar?",
-  "options": ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano"],
-  "answer": 6,
-  "explanation": "Urano es el planeta más alejado del sol dentro del sistema solar, por lo tanto, es el que menos calor recibe."
-}
-{  "category": "Universo",
-  "question": "¿Cuál es el nombre del planeta más frio del sistema solar?",
-  "options": ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano"],
-  "answer": 6,
-  "explanation": "Urano es el planeta más alejado del sol dentro del sistema solar, por lo tanto, es el que menos calor recibe."
+{  "category": "IA",
+  "question": “¿Cuáles son algunos ejemplos de aplicaciones de la inteligencia artificial en la vida cotidiana?",
+  "options": ["Reconocimiento facial", "Luz de semaforo", "Calculadora de bolsillo", "Conteo de productos"],
+  "answer": 0,
+  "explanation": "La inteligencia artificial no se usa para las otras tareas más básicas."
 }
