@@ -1,11 +1,11 @@
 [
   {
     "category": "Universo",
-    "description": "Preguntas relacionadas con el origen, los componentes y otros temas acerca de el universo."
+    "description": "Preguntas relacionadas con el origen, los componentes y otros temas acerca del universo."
   },
   {
     "category": "Ajedrez",
-    "description": "Preguntas relacionadas con diversos temas del apasionante juego del ajedrez."
+    "descripción": "Preguntas relacionadas con diversos temas del apasionante juego del ajedrez."
   },
   {
     "category": "IA",
@@ -13,14 +13,15 @@
   },
   {
     "category": "El ciclismo en Colombia",
-    "description": "Preguntas relacionadas con los mas destacados ciclistas de nuestro pais."
+    "description": "Preguntas relacionadas con los más destacados ciclistas de nuestro pais."
   },
   {
-    "category": "Cultivos nativos frutales Colombianos",
-    "description": "Preguntas relacionadas con las diferentes frutas que se han cultivado xclusivamente en Colombia."
+    "category": "Cultivos nativos frutales colombianos",
+    "description": "Preguntas relacionadas con las diferentes frutas que se han cultivado exclusivamente en Colombia."
   },
   {
     "category": "Nanotecnologia",
-    "description": "Preguntas relacionadas con los avances en nanotecologia en nuestros tiempos."
+    "description": "Preguntas relacionadas con los avances en nanotecnología en nuestros tiempos."
   }
 ]
+
