@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Universo",
+    "description": "Preguntas relacionadas con el origen, los componentes y otros temas acerca de el universo."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Ajedrez",
+    "description": "Preguntas relacionadas con diversos temas del apasionante juego del ajedrez."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "IA",
+    "description": "Preguntas relacionadas con el uso y las amenazas que nos trae la IA."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "El ciclismo en Colombia",
+    "description": "Preguntas relacionadas con los mas destacados ciclistas de nuestro pais."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Cultivos nativos frutales Colombianos",
+    "description": "Preguntas relacionadas con las diferentes frutas que se han cultivado xclusivamente en Colombia."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Nanotecnologia",
+    "description": "Preguntas relacionadas con los avances en nanotecologia en nuestros tiempos."
   }
 ]
