@@ -1,0 +1,18 @@
+package KILOMETROS;
+
+import java.util.Scanner;
+public class MAIN {
+
+    public static void main(String[] args) {
+        Scanner cargaDeDatos = new Scanner(System.in);
+        
+        // Ingreso de datos usuario, distancia en millas
+        System.out.println("Por favor ingrese la distancia en millas");
+        double distanciaMillas = cargaDeDatos.nextInt();
+        
+        double distanciaKm = distanciaMillas * 1.60934;
+        System.out.println("La distancia ingresada equivale a: "+ distanciaKm +"Kilometros");
+         
+    }
+    
+}
