@@ -1,0 +1,18 @@
+package EDAD;
+
+import java.util.Scanner;
+public class MAIN {
+
+    public static void main(String[] args) {
+        Scanner cargaDeDatos = new Scanner(System.in);
+        
+        // Ingreso de datos usuario, Edad perro
+        System.out.println("Por favor ingrese la edad de su perro en años");
+        Integer edad = cargaDeDatos.nextInt();
+        
+        Integer edadHumana = edad / 7;
+        System.out.println("La edad de tu perro en años humanos es: "+ edadHumana);
+         
+    }
+    
+}
