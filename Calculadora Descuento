@@ -1,0 +1,22 @@
+package DESCUENTO;
+
+import java.util.Scanner;
+public class MAIN {
+
+    public static void main(String[] args) {
+        Scanner cargaDeDatos = new Scanner(System.in);
+        
+        // Ingreso de datos usuario, precio producto
+        System.out.println("Por favor ingrese el precio del producto");
+        double precioOriginal = cargaDeDatos.nextDouble();
+        
+        // Ingreso de datos usuario, descuento producto en porcentaje
+        System.out.println("Por favor ingrese el porcentaje de descuento");
+        double descuento = cargaDeDatos.nextDouble();
+        
+        double precioFinal = precioOriginal - (precioOriginal * descuento/100);
+        System.out.println("El precio con descuento de su producto es: "+ precioFinal +" pesos");
+         
+    }
+    
+}
