@@ -1,0 +1,28 @@
+package NUMERO_ALEATORIO;
+
+import java.util.Scanner;
+public class MAIN {
+
+    public static void main(String[] args) {
+        Scanner cargaDeDatos = new Scanner(System.in);
+        
+        // Se genera un numero random entre 1 y 100
+        double numero = Math.random() * 100;
+        double numeroRedondo = Math.round(numero);
+        System.out.println(numeroRedondo);
+        // Ingreso de datos usuario, intento adivinar numero
+        System.out.println("Adivina un numero entre 1 y 100, cual es tu elección:");
+        Integer intento = cargaDeDatos.nextInt();
+        
+        double verificar = numero - intento;
+        System.out.println(verificar);
+        
+        if (verificar <= 0.99) {
+            System.out.println("Felicidades!!!!! Haz ganado");
+        }else {
+            System.out.println("Intentalo de nuevo");
+        }
+         
+    }
+    
+}
