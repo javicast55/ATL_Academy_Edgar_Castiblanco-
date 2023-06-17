@@ -1,0 +1,22 @@
+package PROPINA;
+
+import java.util.Scanner;
+public class MAIN {
+
+    public static void main(String[] args) {
+        Scanner cargaDeDatos = new Scanner(System.in);
+        
+        // Ingreso de datos usuario, valor cuenta
+        System.out.println("Por favor ingrese el valor de la cuenta a pagar");
+        double totalCuenta = cargaDeDatos.nextDouble();
+        
+        // Ingreso de datos usuario, valor propina en porcentaje
+        System.out.println("Por favor ingrese el porcentaje de propina que desea pagar");
+        double porcentajePropina = cargaDeDatos.nextDouble();
+        
+        double propina = totalCuenta * (porcentajePropina/100);
+        System.out.println("El valor de la propina de su cuenta es de: "+ propina +" pesos");
+         
+    }
+    
+}
